@@ -1,3 +1,5 @@
+<img src="ext-source/2026-11-16_08-55.png" alt="Logo" width="400">
+
 Introducing **Veu Anya**, my little project for a while.
 
 Veu Anya is a special program licensed under **VFL2**. 
