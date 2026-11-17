@@ -1,4 +1,4 @@
-<img src="ext-source/2026-11-16_08-55.png" alt="Logo" width="400">
+<img src="ext-source/logo.png" alt="Logo" width="500">
 
 Introducing **Veu Anya**, my little project for a while.
 
