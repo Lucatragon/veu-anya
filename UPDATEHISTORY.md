@@ -33,6 +33,8 @@
     * Example given in Figure 1.
   * Any bugs must be at least looked at and graded in ``Issues`` before continuing to Saturn 0000, actual release.
   * Most if not all function-related bugs must be solved before continuing to Saturn 0000, actual release.
+* (1.9) Most if not all generalized bugs must be at least looked at and graded in ``Issues`` before continuing to Saturn 0000, actual release.
+* (00000) Actual release of Saturn v0 (Core) must be functional in both Windows 10, Windows 11 environments, and Debian Linux, with planned support for further operating systems, distributions and kernels later down the line.
    
 Figure 1: Tadashii (C/Ruby hybrid) code that could be an example function for calling an ``.asp`` file.
 ```tadashii
@@ -78,3 +80,6 @@ referred as a 5 digit number, in this case, 10000.
 
 ## 🔴 Beta (Saturn)
 #### 🔴 Beta 0010 (Pending completion of tasks instructed by Mars 1.0; requires Watchdog completion for Windows or Linux systems {WSL might have support, research further})
+* Referring to 00000 as a reference, promote to 00010 if Watchdog has been completed for Windows (10 and 11, potential support for 8 and older) and Linux (Debian/Mint, Arch, Fedora), with potentially looking at BSD and other systems alike.
+* If supported, allow Android and iOS to recieve development (Mobile device development will be introduced with an M next to the update name, example, ``00015M``, which is not related to update ``00015`` unless stated otherwise.
+* If supported, consider compatibility with Sony Interactive Entertainment's PlayStation, and Microsoft's XBox consoles, alongside potential Nintendo Switch (1 and 2) support if not older hardware in general, such as the Nintendo DS, XBox 360 or SIE PlayStation 3.
