@@ -22,15 +22,17 @@
 * (0.8) Renamed Veu Kiri to Veu Anya. Closed issue [#4](https://github.com/Lucatragon/veu-anya/issues/4).
 * (0.8) Added a logo in PNG form. See [this image](/ext-source/logo.png).
 #### 🔴 Alpha 1 (Mars 1) (pending update initialization)
-* Prototyping in Turbowarp
+* (1.0) Prototyping in Turbowarp
   * This involves getting the ``.aso`` and ``.asn`` files put in place for first initialization
   * Will utilize PCM WAV Audio and a MIDI-like file format system to host audio files to try to make a song
-  * Watchdog needs developing
+  * (1.2) Watchdog needs developing
     * Will attempt to complete in a later update
     * Watchdog does not need developing yet until I can confirm ``.aso`` and ``.asn`` file initialization.
-  * Idea:
+  * (1.4 - 1.7) Idea:
     * ``.asp`` (Anya Sound Pack) could be a file format that allows ``!Instrument`` labels to be hosted separately, and the ASP code could be in a function call (e.g. soon, there would be a way to go inside of ``.aso`` and ``.asn`` files and make the ``!Instrument`` label call a ``.asp`` file with a specific ``.asp`` code, and then ``Factors`` (``F0``, ``F1``, etc, inside of ``!Chart``) could be any number possible because instruments could just require an ID, the ID could get called, and if the ID cannot be found, a fallback ``Factor`` could be implemented.
     * Example given in Figure 1.
+  * Any bugs must be at least looked at and graded in ``Issues`` before continuing to Saturn 0000, actual release.
+  * Most if not all function-related bugs must be solved before continuing to Saturn 0000, actual release.
    
 Figure 1: Tadashii (C/Ruby hybrid) code that could be an example function for calling an ``.asp`` file.
 ```tadashii
