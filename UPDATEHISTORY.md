@@ -1,9 +1,11 @@
 # Update History
 #### Marked with 
-<ol>🟢 is completed,</ol>
-<ol>🔵 is current,</ol>
-<ol>🟠 is not released yet or unstable,</ol>
-<ol>🔴 is not worked on.</ol>
+<ol>🟢 is completed. This means no future iterations of this will be included in this current version.</ol>
+<ol>🔵 is current. This means it is in the Stable branch.</ol>
+<ol>🟠 is not released yet or unstable. This means it is normally in the Unstable branch. You may see the Unstable version number go up repeatedly, even rapidly. This is normal.</ol>
+<ol>🔴 is not worked on. This means you cannot access versions that are labeled red.</ol>
+
+<ol>! Versions are NOT sequential. 00000 is before 00005, but there are not [normally] 6 updates (0, 1, 2, 3, 4, 5) in between. There are cases where there ARE indeed 6 updates, typically typo fixes and management. Actual architectural changes typically change the version number to a higher amount than typo fixes or most minor bug fixes.</ol>
 
 ### Current Version: ``Alpha Mars 0.8``
 #### Version Code: ``-00001 (Pre-Beta Pre-Release)`` <br><br><br>
