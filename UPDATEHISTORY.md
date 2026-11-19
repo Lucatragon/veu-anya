@@ -5,7 +5,7 @@
 <ol>🟠 is not released yet or unstable,</ol>
 <ol>🔴 is not worked on.</ol>
 
-### Current Version: ``Alpha 0.8``
+### Current Version: ``Alpha Mars 0.8``
 #### Version Code: ``-00001 (Pre-Beta Pre-Release)`` <br><br><br>
 
 ## 🔵 Alpha (Mars)
