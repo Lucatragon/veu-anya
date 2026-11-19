@@ -2,7 +2,7 @@
 
 Introducing **Veu Anya**, my little project for a while.
 
-Veu Anya is a special program licensed under **VFL2**. 
+Veu Anya is a special program licensed under **VFL2**, which is commercially related to CC0 (Creative Commons Zero) but with a "don't be a d***" clause.
 
 Right now, this Readme looks a bit bland, yes I know I gotta fix that.
 
@@ -17,7 +17,7 @@ WHAT IS VEU ANYA?
 Veu Anya is a special little program that I am making for three reasons.
 1. I want to.
 2. I would like a way to make audio smaller (under the guise that I might not be able to do much other than prove "quality versus quantity"), and
-3. I feel like OGG, MP3, WAV, etc etc are super bloated and unneccessary for true day-to-day listening. Yes - even Opus and Vorbis. I remember when assetys used to be incredibly small, I remember when my dad showed me a videogame that was 96 KB on disk (.kkrieger) and being astonished that my daily-driven SSD to hell and back could probably load 1 700 copies of this game ***in RAM***.
+3. I feel like OGG, MP3, WAV, etc etc are super bloated and unneccessary for true day-to-day listening. Yes - even Opus and Vorbis. I remember when assets used to be incredibly small, I remember when my dad showed me a videogame that was 96 KB on disk (.kkrieger) and being astonished that my daily-driven SSD to hell and back could probably load 1 700 copies of this game ***in RAM***.
 
 And so I thought, "what the hell?" Why are games so big now? Why is audio especially massive? Note: Minecraft Java Edition thanks to Microslop™️ has recommended specifications of 16 GB of RAM ***itself*** and an Intel Core i5 12th Gen. That means my daily-driver laptop's CPU alone isn't up to specifications. 
 
@@ -32,14 +32,14 @@ Anya in and of itself is my take at what audio could be. It uses structural anal
 
 Could. I keep using that word, because Anya is not finished yet. 
 
-Then, I'll start on the actual programming itself, changing the way programming is even defined in the dictionary, because it's high time we have ease of access built into our programs where 9 times out of 10 the one looking at your code has no idea what they are looking at.
+Then, I'll start on the actual programming itself, changing the way programming is even defined in the dictionary, because it's high time we have ease of access built into our programs where 9 times out of 10 the one looking at your code has no idea what they are looking at. But that's for another day. :3
 
 Anya itself is just the audio. But, the audio *what*?
 * The audio stack
 * The audio driver itself (soon)
 * The entire system that makes sound itself possible to computers and digital machinery.
 
-I will be utilizing ALSA for the Linux version, WASAPI for the Windows version, and CoreAudio for the Macintosh version.
+I will be utilizing ALSA for the Linux version, WASAPI for the Windows version, and CoreAudio for the Macintosh version. The key is to utilize these software applications to create a Watchdog to pay attention and potentially read ``.aso`` and other file formats. Then once it's stable enough, I will make a direct relative (in intention) to Icecast, a Radio-over-the-Internet server service that lets you use your connections and your hardware to make radio stations, similar to adding a listing in a search engine. Icecast can't accept ``.aso`` and other file types; Arya Radio Network will be able to.
 
 As of right now, it will utilize compatibility with ``.wav`` files and it will also utilize Ruby as a language. The frontend will be coded in Ruby, the backend will be later coded in C. Formatting a ``.aso`` (Anya Sound Output) file will come later in this Readme.
 
