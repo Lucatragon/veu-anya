@@ -3,7 +3,10 @@
 <ol>🟢 is completed,</ol>
 <ol>🔵 is current,</ol>
 <ol>🟠 is not released yet or unstable,</ol>
-<ol>🔴 is not worked on.</ol> <br><br>
+<ol>🔴 is not worked on.</ol>
+
+### Current Version: ``Alpha 0.8``
+#### Version Code: ``-00001 (Pre-Beta Pre-Release)`` <br><br><br>
 
 ## 🔵 Alpha (Mars)
 #### 🔵 Alpha 0 (pending update confirmation)
@@ -30,17 +33,41 @@ Figure 1: Tadashii (C/Ruby hybrid) code that could be an example function for ca
     Instrument Flute fn[a](require asp flute.e359) : iF
     Instrument Drums fn[a](require asp drums_synth.e359): dS
 ```
+<br>
+
 ### Naming convention for Non-Alpha, such as Beta, Centuri, Fault, and Ignis
 ```
 00           000
 Major        Minor
 Release      Release
 
-Example: 00010 = Saturn (00, 01) + Minor Release Code 0010 (Beginning of
+Example: 0010 = Saturn (0, 1) + Minor Release Code 0010 (Beginning of
 repo, bug fixes are similar in number but major releases involve higher
-number jumps, so 06225 to 06331 is a bigger jump in changes than 06225 to
-06278).
+number jumps, so 6225 to 6331 is a bigger jump in changes than 6225 to
+6278).
+
+0   1        Saturn (Beta)
+2   3        Jupiter (Post-Beta Pre-Official Release)
+4   5        Neptune (Release)
+6            Pluto
+7   8        Luna
+9            Eclipse
+10           Sol
+11           New Eclipse
+12           Ignis
+...          ...
+
+* some of these version names might not be used, or may be used early, or
+late.
+
+* if it is apparent not every feature has been added to the roadmap but the
+versioning number is close to moving to a new major release, updates may be
+halted, slowed or less common until new major release.
+
+* versions can be referred as a 5 digit decimal number or a 4 digit decimal
+number, both are the same, until Sol 000 releases, in which case it will be
+referred as a 5 digit number, in this case, 10000.
 ```
 
 ## 🔴 Beta (Saturn)
-#### 🔴 Beta 00010 (Pending completion of tasks instructed by Mars 1.0; requires Watchdog completion for Windows or Linux systems {WSL might have support, research further})
+#### 🔴 Beta 0010 (Pending completion of tasks instructed by Mars 1.0; requires Watchdog completion for Windows or Linux systems {WSL might have support, research further})
