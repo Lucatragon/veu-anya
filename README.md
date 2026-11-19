@@ -8,9 +8,11 @@ Right now, this Readme looks a bit bland, yes I know I gotta fix that.
 
 However, I can't write Readme's to save my life, so XD
 
-### There's an important update: If you have been looking up potential documentation for Veu, you might have found a repository named Veu Kiri, and you might have found out that it involves files such as ``.kso``, ``.ksn``, and others. While THAT INFORMATION WAS CORRECT, AS OF 15 NOVEMBER 2026, THE ENTIRE CODEC HAS BEEN RENAMED FROM KIRI TO ANYA. Inspired by the Japanese word for sound and resonation, onkyō (``音響``), and driven by a single college student bored with life. XD
+> There's an important update: If you have been looking up potential documentation for Veu, you might have found a repository named Veu Kiri, and you might have found out that it involves files such as ``.kso``, ``.ksn``, and others. While THAT INFORMATION WAS CORRECT, AS OF 15 NOVEMBER 2026, THE ENTIRE CODEC HAS BEEN RENAMED FROM KIRI TO ANYA. Inspired by the Japanese word for sound and resonation, onkyō (``音響``), and driven by a single college student bored with life. XD
 
 Anywhos. 
+
+#### We're currently on version ``Alpha Mars 0.8``. Learn more about what that means [here](./UPDATEHISTORY.md)
 
 WHAT IS VEU ANYA?
 ----------------------------------------------------------
