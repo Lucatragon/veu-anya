@@ -16,6 +16,7 @@
 * Renamed Artzenith Sound to Veu Demeteria. Closed issue [#1](https://github.com/Lucatragon/veu-anya/issues/1).
 * (0.2) Renamed Veu Demeteria to Veu Kiri. Closed issue [#2](https://github.com/Lucatragon/veu-anya/issues/2).
 * (0.8) Renamed Veu Kiri to Veu Anya. Closed issue [#4](https://github.com/Lucatragon/veu-anya/issues/4).
+* (0.8) Added a logo in PNG form. See [this image](/ext-source/logo.png).
 #### 🔴 Alpha 1 (Mars 1) (pending update initialization)
 * Prototyping in Turbowarp
   * This involves getting the ``.aso`` and ``.asn`` files put in place for first initialization
