@@ -10,12 +10,12 @@
 
 ## 🔵 Alpha (Mars)
 #### 🔵 Alpha 0 (pending update confirmation)
-* Introduced commands
-* Introduced license VFL2 and deprecated license AZGLv1
-* Made a wiki for organization
-* Renamed Artzenith Sound to Veu Demeteria
-* (0.2) Renamed Veu Demeteria to Veu Kiri
-* (0.8) Renamed Veu Kiri to Veu Anya
+* Introduced commands. Learn more [here](https://github.com/Lucatragon/veu-anya/wiki/Commands).
+* Introduced license VFL2 and deprecated license AZGLv1. Learn more [here](./LICENSE).
+* Made a wiki for organization. Learn more [here](https://github.com/Lucatragon/veu-anya/wiki/Home).
+* Renamed Artzenith Sound to Veu Demeteria. Closed issue [#1](https://github.com/Lucatragon/veu-anya/issues/1).
+* (0.2) Renamed Veu Demeteria to Veu Kiri. Closed issue [#2](https://github.com/Lucatragon/veu-anya/issues/2).
+* (0.8) Renamed Veu Kiri to Veu Anya. Closed issue [#4](https://github.com/Lucatragon/veu-anya/issues/4).
 #### 🔴 Alpha 1 (Mars 1) (pending update initialization)
 * Prototyping in Turbowarp
   * This involves getting the ``.aso`` and ``.asn`` files put in place for first initialization
